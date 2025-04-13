@@ -13,7 +13,7 @@ website:
 format:
   html:
     grid: 
-      body-width: 1200px
+     body-width: 1250px
     theme: cosmo
     css: styles.css
     toc: true
