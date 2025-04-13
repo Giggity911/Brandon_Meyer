@@ -1,11 +1,36 @@
 ---
-title: "Brandon_Meyer"
+title: "Brandon Meyer"
+image: profile.jpeg
+about:
+  template: trestles
+  image-width: 23em
+  links: 
+    - icon: envelope-at
+      text: brandon.meyer@up.ac.za
+      href: brandon.meyer@up.ac.za
+    - icon: github
+      text: Github
+      href: https://github.com/Giggity911
 ---
 
-This is a Quarto website.
+:::{#hero-heading}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Brandon is a PhD student in Economics at University of Pretoria, specializing in international trade. Their research focuses on the heterogeneous effects of free trade agreements, with an emphasis on the extensive margin of trade. They apply advanced panel data econometrics and quantile regression to study trade patterns and policy effect. In addition to research, Brandon is involved in teaching and mentoring students in econometrics and applied economic analysis.
 
-```{r}
-1 + 1
-```
+## Education
+
+**University of Pretoria** \|
+MPhil in Economics \| Jan 2022 -
+
+*The Heterogeneous Effects of EIA’s for different levels of Technology.*
+
+**University of Pretoria** \|
+Bcom and Honours in Econometrics \| Jan 2018 - Des 2021
+
+## Experience
+
+Teaching Assistant \| University of Pretoria \| Feb 2022 - Present
+
+Summer School Lecturer \| University of Pretoria, 2nd Macroeconomics\| Jan 2025
+
+:::

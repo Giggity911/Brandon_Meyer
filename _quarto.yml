@@ -8,13 +8,15 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      
 
 format:
   html:
+    grid: 
+      body-width: 1200px
     theme: cosmo
     css: styles.css
     toc: true
-
+    
 editor: visual
 
