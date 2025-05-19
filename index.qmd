@@ -13,24 +13,20 @@ about:
       href: https://github.com/Giggity911
 ---
 
-:::{#hero-heading}
-
-Brandon is a PhD student in Economics at University of Pretoria, specializing in international trade. Their research focuses on the heterogeneous effects of free trade agreements, with an emphasis on the extensive margin of trade. They apply advanced panel data econometrics and quantile regression to study trade patterns and policy effect. In addition to research, Brandon is involved in teaching and mentoring students in econometrics and applied economic analysis.
+::: {#hero-heading}
+Brandon is a PhD student in Economics at the University of Pretoria, specializing in international trade. Their research focuses on the heterogeneous effects of free trade agreements, with an emphasis on the extensive margin of trade. They apply advanced panel data econometrics and quantile regression to study trade patterns and policy effects. In addition to research, Brandon is involved in teaching and mentoring students in econometrics and applied economic analysis.
 
 ## Education
 
-**University of Pretoria** \|
-MPhil in Economics \| Jan 2022 -
+**University of Pretoria** \| MPhil in Economics \| Jan 2022 - Dec 2023
 
 *-The Heterogeneous Effects of EIA’s for different levels of Technology.*
 
-**University of Pretoria** \|
-Bcom and Honours in Econometrics \| Jan 2018 - Des 2021
+**University of Pretoria** \| Bcom and Honours in Econometrics \| Jan 2018 - Dec 2021
 
 ## Experience
 
 Teaching Assistant \| University of Pretoria \| Feb 2022 - Present
 
 Summer School Lecturer \| University of Pretoria, 2nd Year Macroeconomics\| Jan 2025
-
 :::
